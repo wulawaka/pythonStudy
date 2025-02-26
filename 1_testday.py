@@ -13,3 +13,4 @@ print(list)
 #删除数组
 del list[2]
 print(list)
+x = len(list)-1
