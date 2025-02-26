@@ -19,3 +19,5 @@ while var == 1 :  # 表达式永远为 true
    print ("你输入的数字是: ", num)
  
 print ("Good bye!")
+
+
